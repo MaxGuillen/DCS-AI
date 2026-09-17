@@ -1,0 +1,15 @@
+D:\Games\DCS-IA\bin\Debug\net8.0\GciLocal.exe
+D:\Games\DCS-IA\bin\Debug\net8.0\GciLocal.deps.json
+D:\Games\DCS-IA\bin\Debug\net8.0\GciLocal.runtimeconfig.json
+D:\Games\DCS-IA\bin\Debug\net8.0\GciLocal.dll
+D:\Games\DCS-IA\bin\Debug\net8.0\GciLocal.pdb
+D:\Games\DCS-IA\obj\Debug\net8.0\GciLocal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\DCS-IA\obj\Debug\net8.0\GciLocal.AssemblyInfoInputs.cache
+D:\Games\DCS-IA\obj\Debug\net8.0\GciLocal.AssemblyInfo.cs
+D:\Games\DCS-IA\obj\Debug\net8.0\GciLocal.csproj.CoreCompileInputs.cache
+D:\Games\DCS-IA\obj\Debug\net8.0\GciLocal.dll
+D:\Games\DCS-IA\obj\Debug\net8.0\refint\GciLocal.dll
+D:\Games\DCS-IA\obj\Debug\net8.0\GciLocal.pdb
+D:\Games\DCS-IA\obj\Debug\net8.0\GciLocal.genruntimeconfig.cache
+D:\Games\DCS-IA\obj\Debug\net8.0\ref\GciLocal.dll
+D:\Games\DCS-IA\bin\Debug\net8.0\appsettings.json
